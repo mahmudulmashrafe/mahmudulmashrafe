@@ -1,8 +1,8 @@
 ![Programmer](https://pbs.twimg.com/profile_banners/1222442423089008640/1661974441/1080x360)
-# Hi there 👋, I am Mahmudul Mashrafe
+# Hi there 👋, I am Mahmudul Mashrafe                                                                ![Profile views](https://gpvc.arturio.dev/mahmudulmashrafe) 
 ## Programmer
 
-![Profile views](https://gpvc.arturio.dev/mahmudulmashrafe)  
+ 
 
 Hi! I am Mahmudul Mashrafe. I am a Programmer.
 
