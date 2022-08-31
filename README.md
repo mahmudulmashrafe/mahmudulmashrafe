@@ -26,6 +26,8 @@ Hi! I am Mahmudul Mashrafe. I am a Programmer.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mahmudulmashrafe&repo=blue-green)]
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudulmashraf&layout=compact)]
+
 ![Mahmudul Mashrafe's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmudulmashrafe&show_icons=true&theme=blue-green)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mahmudulmashrafe)  
