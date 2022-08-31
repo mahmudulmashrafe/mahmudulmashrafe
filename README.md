@@ -2,6 +2,7 @@
 # Hi there 👋, I am Mahmudul Mashrafe
 ## Programmer
 
+![Profile views](https://gpvc.arturio.dev/mahmudulmashrafe)  
 
 Hi! I am Mahmudul Mashrafe. I am a Programmer.
 
@@ -19,6 +20,6 @@ Skills: C/ Python / HTML / CSS
 
 ![GitHub metrics](https://metrics.lecoq.io/mahmudulmashrafe)  
 
-![Profile views](https://gpvc.arturio.dev/mahmudulmashrafe)  
-- ⚡ Fun fact: ...
+
+
 
