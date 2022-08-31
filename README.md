@@ -1,15 +1,24 @@
-# Hi there 👋
+![Programmer](https://avatars.githubusercontent.com/u/62557323?v=4)
+# Hi there 👋, I am Mahmudul Mashrafe
+## Programmer
 
-**mahmudulmashrafe/mahmudulmashrafe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hi! I am Mahmudul Mashrafe. I am a Programmer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+Skills: C/ Python / HTML / CSS
+
+- 🌱 I’m currently learning C 
+- 👯 I’m looking to collaborate on github 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mahmudulmashrafe)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mahmudulmashrafe/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mahmudulmashrafe)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mahmudulmashrafe/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/iammashrafe)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/MahmudulMashrafe)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mahmudulmashrafe.blogspot.com/)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmudulmashrafe&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mahmudulmashrafe)  
+
+![GitHub metrics](https://metrics.lecoq.io/mahmudulmashrafe)  
+
+![Profile views](https://gpvc.arturio.dev/mahmudulmashrafe)  
 - ⚡ Fun fact: ...
 
