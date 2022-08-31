@@ -27,18 +27,12 @@ Hi! I am Mahmudul Mashrafe. I am a Programmer.
 ![Mahmudul Mashrafe's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmudulmashrafe&show_icons=true&theme=midnight-purple)
 <br>
 <br>
-<br>
-<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudulmashrafe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
-<br>
-<br>
 
 [![Mahmudul Mashrafe's github activity graph](https://activity-graph.herokuapp.com/graph?username=mahmudulmashrafe&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) 
-<br>
-<br>
 <br>
 <br>
 
