@@ -22,7 +22,7 @@ Hi! I am Mahmudul Mashrafe. I am a Programmer.
 ## My GitHub stats:
 ![](https://github-readme-stats.vercel.app/api?username=mahmudulmashrafe&show_icons=True)
 
-![Mahmudul Mashrafe's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmudulmashrafe&show_icons=true&theme=midnight-purple)
+![Mahmudul Mashrafe's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmudulmashrafe&show_icons=true&theme=radical)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mahmudulmashrafe)  
 
