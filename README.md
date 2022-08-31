@@ -23,6 +23,8 @@ Hi! I am Mahmudul Mashrafe. I am a Programmer.
 
 ![Mahmudul Mashrafe's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmudulmashrafe&show_icons=true&theme=midnight-purple)
 
+![Mahmudul Mashrafe's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmudulmashrafe&show_icons=true&theme=blue-green)
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mahmudulmashrafe)  
 
 ![GitHub metrics](https://metrics.lecoq.io/mahmudulmashrafe)  
