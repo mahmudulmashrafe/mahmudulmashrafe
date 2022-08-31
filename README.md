@@ -25,6 +25,8 @@ Hi! I am Mahmudul Mashrafe. I am a Programmer.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudulmashrafe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mahmudulmashrafe&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mahmudulmashrafe)  
 
 ![GitHub metrics](https://metrics.lecoq.io/mahmudulmashrafe)  
