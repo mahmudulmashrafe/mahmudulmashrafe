@@ -6,11 +6,11 @@
 
 Hi! I am Mahmudul Mashrafe. I am a Programmer.
 
-##Skills: 
-⏩ C
-⏩ Python
-⏩ HTML
-⏩ CSS
+## Skills: 
+⏩ C <br>
+⏩ Python <br>
+⏩ HTML <br>
+⏩ CSS <br>
 
 - 🌱 I’m currently learning C 
 - 👯 I’m looking to collaborate on github 
