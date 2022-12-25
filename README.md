@@ -4,7 +4,7 @@
 
  
 
-Hi! I am Mahmudul Mashrafe. I am a Programmer.
+Hi! I'm Mahmudul Mashrafe. I am a data scientist with a passion for using data-driven insights to solve real-world problems. With experience in a variety of data analysis tools and techniques, I am skilled at extracting valuable insights from complex data sets and communicating my findings to diverse audiences. In my spare time, I enjoy staying up-to-date with the latest developments in the data science field and contributing to open source projects.
 
 ## Skills: 
 ⏩ C <br>
