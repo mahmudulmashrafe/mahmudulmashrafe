@@ -8,6 +8,7 @@ Hi! I'm Mahmudul Mashrafe. I am a data scientist with a passion for using data-d
 
 ## Skills: 
 ⏩ C <br>
+⏩ Java <br>
 ⏩ Python <br>
 ⏩ HTML <br>
 ⏩ CSS
@@ -15,7 +16,7 @@ Hi! I'm Mahmudul Mashrafe. I am a data scientist with a passion for using data-d
 ## Experience:
 
 ## currently learning:
-⏩ C 
+⏩ Java
 <br>
 
 ## Social Media:
