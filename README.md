@@ -80,61 +80,46 @@ I'm a Data Engineer, Researcher, and ML Enthusiast passionate about building int
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mahmudulmashrafe&theme=darkhub&no-frame=true&row=1&column=6" width="96%" />
-  </a>
+<p> 
+</br>
 </p>
 
-
-
----
-
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mahmudulmashrafe&theme=gruvbox&no-bg=true&no-frame=true&margin-w=15" />
 </p>
 
----
+<p> 
+</br>
+</p>
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahmudulmashrafe&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
+<p> 
+</br>
+</p>
 
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/mahmudulmashrafe/mahmudulmashrafe/blob/output/github-contribution-grid-snake.svg)
 
----
+<p> 
+</br>
+</p>
 
-## 👀 Visitor Count
+## Visitor Count
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=mahmudulmashrafe&label=Profile%20views&color=0e75b6&style=flat)
 
----
+<p> 
+</br>
+</p>
 
-## 💬 Quote of the Day
+## Quote of the Day
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
 </p>
-
----
-
-## 🔥 Keep the fire burning!
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</p>
-
----
-
-## 📦 Metrics Dashboard
-
-> ℹ️ Make sure you visit [https://metrics.lecoq.io](https://metrics.lecoq.io) once and authorize it!
-
-```markdown
-![Metrics](https://metrics.lecoq.io/mahmudulmashrafe?template=classic&base.activity=true&base.community=true&base.metadata=true&base.repositories=100&isocalendar=true&followup=true&languages=true&stars=true&habits=true&topics=true&achievements=true&lines=true)
