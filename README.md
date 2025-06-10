@@ -1,44 +1,130 @@
-![Programmer](https://pbs.twimg.com/profile_banners/1222442423089008640/1661974441/1080x360)
-# Hi there 👋, I am Mahmudul Mashrafe                                     </br>
-## Programmer
+![Banner](https://pbs.twimg.com/profile_banners/1222442423089008640/1661974441/1080x360)
 
- 
+<h1 align="center">
+  <a href="https://github.com/mahmudulmashrafe" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=600&height=80&lines=🚀+Mahmudul+Mashrafe;⚡+Data+Scientist+%7C+Tech+Explorer+%7C+Programmer" alt="Typing SVG" />
+  </a>
+</h1>
 
-Hi! I'm Mahmudul Mashrafe. I am a data scientist with a passion for using data-driven insights to solve real-world problems. With experience in a variety of data analysis tools and techniques, I am skilled at extracting valuable insights from complex data sets and communicating my findings to diverse audiences. In my spare time, I enjoy staying up-to-date with the latest developments in the data science field and contributing to open source projects.
+<h3 align="center">⚡ Data Scientist | 💻 Programmer | 🌍 Tech Explorer <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" /></h3>
 
-## Skills: 
-⏩ C <br>
-⏩ Java <br>
-⏩ Python <br>
-⏩ HTML <br>
-⏩ CSS
-<br>
-## Experience:
-
-## currently learning:
-⏩ Java
-<br>
-
-## Social Media:
-[<img src='https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw' alt='linkedin' height='40'>](https://www.linkedin.com/in/mahmudulmashrafe/)  [<img src='https://imgs.search.brave.com/uZ3w9kTKDCmR5PrCI-mWJOqkXx_XlT14mNDEaNcRGu0/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5j/a2VVRmsteWlkMHZm/V25kNTZ3N3dBSGFI/YSZwaWQ9QXBp' alt='github' height='40'>](https://github.com/mahmudulmashrafe)  [<img src='https://www.facebook.com/images/fb_icon_325x325.png' alt='facebook' height='40'>](https://www.facebook.com/mahmudulmashrafe)  [<img src='https://img.freepik.com/free-vector/instagram-icon_1057-2227.jpg' alt='instagram' height='40'>](https://www.instagram.com/mahmudulmashrafe/)  [<img src='https://pbs.twimg.com/profile_images/1488548719062654976/u6qfBBkF_400x400.jpg' alt='twitter' height='40'>](https://twitter.com/iammashrafe)  [<img src='https://external-preview.redd.it/iDdntscPf-nfWKqzHRGFmhVxZm4hZgaKe5oyFws-yzA.png?width=640&crop=smart&auto=webp&s=bfd318557bf2a5b3602367c9c4d9cd84d917ccd5' alt='Reddit' height='40'>](https://www.reddit.com/user/MahmudulMashrafe) 
-<br>
-
-## My GitHub stats:
-
-![Mahmudul Mashrafe's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmudulmashrafe&show_icons=true&theme=midnight-purple)
-<br>
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudulmashrafe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-<br>
-
-[![Mahmudul Mashrafe's github activity graph](https://activity-graph.herokuapp.com/graph?username=mahmudulmashrafe&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) 
-<br>
-<br>
-
-![GitHub metrics](https://metrics.lecoq.io/mahmudulmashrafe)  
+<p align="center" style="font-family: 'Fira Code', monospace; font-size: 20px; color: #00FFD9;">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FFD9&center=true&vCenter=true&width=435&lines=Hi!+I+am;Mahmudul+Mashrafe;I+am+Data+Engineer;Machine+Learning+Enthusiast"
+    alt="Typing animation"
+  />
+</p>
 
 
+---
 
+## 🧠 About Me
 
+✨ I'm a **Data Scientist** who loves to decode patterns, predict outcomes, and craft impactful insights from raw data.  
+🛠️ With hands-on experience in **machine learning, Python, Java**, and more, I thrive in building data-powered solutions.  
+🌱 Currently diving deeper into **Deep Learning, Java**, and **AI systems**.  
+🌌 I'm passionate about **open-source**, **learning new tech**, and **solving real-world problems**.
+
+---
+
+## 🔧 Tech Stack
+
+### 🖥️ Programming & Scripting
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)
+
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+
+### 📊 Data & ML
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white)
+
+---
+
+## 🚧 Currently Learning
+
+🧠 **Deep Learning & LSTM Models**  
+⚙️ **Advanced Java & Spring Boot**  
+📈 **AI-powered Analytics & Prediction Models**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mahmudulmashrafe/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://github.com/mahmudulmashrafe"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+  <a href="https://www.facebook.com/mahmudulmashrafe"><img src="https://skillicons.dev/icons?i=facebook" height="40"/></a>
+  <a href="https://www.instagram.com/mahmudulmashrafe/"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+  <a href="https://twitter.com/iammashrafe"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
+  <a href="https://www.reddit.com/user/MahmudulMashrafe"><img src="https://skillicons.dev/icons?i=reddit" height="40"/></a>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmudulmashrafe&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudulmashrafe&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudulmashrafe&theme=tokyonight&hide_border=true" width="98%" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mahmudulmashrafe&theme=gruvbox&no-bg=true&no-frame=true&margin-w=15" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahmudulmashrafe&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/mahmudulmashrafe/mahmudulmashrafe/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 👀 Visitor Count
+
+![Visitor Count](https://komarev.com/ghpvc/?username=mahmudulmashrafe&label=Profile%20views&color=0e75b6&style=flat)
+
+---
+
+## 💬 Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
+</p>
+
+---
+
+## 🔥 Keep the fire burning!
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
+
+---
+
+## 📦 Metrics Dashboard
+
+> ℹ️ Make sure you visit [https://metrics.lecoq.io](https://metrics.lecoq.io) once and authorize it!
+
+```markdown
+![Metrics](https://metrics.lecoq.io/mahmudulmashrafe?template=classic&base.activity=true&base.community=true&base.metadata=true&base.repositories=100&isocalendar=true&followup=true&languages=true&stars=true&habits=true&topics=true&achievements=true&lines=true)
