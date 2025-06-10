@@ -1,6 +1,6 @@
 
-<h1 align="left">Hi! there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/> \n I am Mahmudul Mashrafe</h1>
-<h2 align="left">I am Mahmudul Mashrafe</h2>
+<h1 align="left">Hi! there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/>
+I am Mahmudul Mashrafe</h1>
 
 <p align="center">
   <img
