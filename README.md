@@ -24,8 +24,9 @@ I'm a Data Engineer, Researcher, and ML Enthusiast passionate about building int
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Tech%20Stack-00e8c5?style=flat&logo=&borderRadius=10" alt="Tech Stack" />
+  <img src="https://img.shields.io/badge/Tech%20Stack-00e8c5?style=flat&logo=&borderRadius=10" alt="Tech Stack" width="300" />
 </div>
+
 
 
 
