@@ -23,7 +23,10 @@ I'm a Data Engineer, Researcher, and ML Enthusiast passionate about building int
 </br>
 </p>
 
-![Tech Stack](https://img.shields.io/badge/Tech%20Stack-00e8c5?style=for-the-badge&fontcolor=black)
+<div align="center">
+  <img src="https://img.shields.io/badge/Tech%20Stack-00e8c5?style=flat&logo=&borderRadius=10" alt="Tech Stack" />
+</div>
+
 
 
 ### Programming
