@@ -20,8 +20,8 @@ I'm a Data Engineer, Researcher, and ML Enthusiast passionate about building int
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=yellow)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-white?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![Node.js](https://img.shields.io/badge/Node.js-?style=flat&logo=nodedotjs&logoColor=%23339933)
-![Express](https://img.shields.io/badge/Express.js-?style=flat&logo=express&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000.svg?style=flat&logo=express&logoColor=white)
 
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-?style=flat&logo=mysql&logoColor=%2300758F)
