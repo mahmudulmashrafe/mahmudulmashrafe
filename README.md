@@ -17,10 +17,8 @@ I'm a Data Engineer, Researcher, and ML Enthusiast passionate about building int
 [![Instagram](https://img.shields.io/badge/Instagram-mahmudulmashrafe-e34b5a?style=flat&logo=instagram&logoColor=e34b5a)](https://www.instagram.com/mahmudulmashrafe/)
 [![Facebook](https://img.shields.io/badge/Facebook-MahmudulMashrafe-1877F2?style=flat&logo=facebook&logoColor=257ae9)](https://www.facebook.com/mahmudulmashrafe)
 
-
-
-
 ---
+
 
 ## Tech Stack
 
