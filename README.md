@@ -23,7 +23,7 @@ I'm a Data Engineer, Researcher, and ML Enthusiast passionate about building int
 </br>
 </p>
 
-## Tech Stack
+<h1 style="color:#00e8c5;">Tech Stack</h1>
 
 ### Programming
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
