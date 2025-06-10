@@ -72,8 +72,8 @@ I'm a Data Engineer, Researcher, and ML Enthusiast passionate about building int
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmudulmashrafe&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudulmashrafe&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmudulmashrafe&show_icons=true&theme=tokyonight&hide_border=true" width="48%" height="40" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudulmashrafe&layout=compact&theme=tokyonight&hide_border=true" width="48%" height="40" />
 </p>
 
 <p align="center">
