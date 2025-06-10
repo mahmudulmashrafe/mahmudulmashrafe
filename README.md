@@ -78,7 +78,7 @@ I'm a Data Engineer, Researcher, and ML Enthusiast passionate about building int
     <img src="https://github-readme-stats.vercel.app/api?username=mahmudulmashrafe&show_icons=true&theme=radical&border_radius=20&rank_icon=github&hide_border=true" width="47%"/>
   </a>
   <a href="https://github.com/mahmudulmashrafe">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudulmashrafe&layout=compact&theme=dark&border_radius=20&hide_border=true" width="47%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudulmashrafe&layout=compact&theme=radical&border_radius=20&hide_border=true" width="47%"/>
   </a>
 
 </p>
