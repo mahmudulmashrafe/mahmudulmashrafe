@@ -1,5 +1,3 @@
-
-
 <h1 align="center">
   <a href="https://github.com/mahmudulmashrafe" target="_blank">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=600&height=80&lines=🚀+Mahmudul+Mashrafe;⚡+Data+Scientist+%7C+Tech+Explorer+%7C+Programmer" alt="Typing SVG" />
@@ -8,9 +6,11 @@
 
 <h3 align="center">⚡ Data Scientist | 💻 Programmer | 🌍 Tech Explorer <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" /></h3>
 
-<p align="center" style="font-family: 'Fira Code', monospace; font-size: 20px; color: #00FFD9;">
+<p align="center">
+  <b style="font-size: 22px;">Hi! there,</b><br />
+  <b style="font-size: 22px;">I am Mahmudul Mashrafe</b><br />
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FFD9&center=true&vCenter=true&width=435&lines=Hi!+I+am;Mahmudul+Mashrafe;I+am+Data+Engineer;Machine+Learning+Enthusiast"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFD9&center=true&vCenter=true&width=500&lines=I+am+Data+Engineer;I+am+Machine+Learning+Enthusiast;I+am+Data+Engineer"
     alt="Typing animation"
   />
 </p>
