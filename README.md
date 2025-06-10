@@ -12,112 +12,40 @@ I'm a Data Engineer, Researcher, and ML Enthusiast passionate about building int
 
 ---
 
-<style>
-  body {
-    font-family: 'Roboto', sans-serif;
-    background: #f5f5f5;
-    margin: 20px;
-    color: #202124;
-  }
-  .container {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 24px;
-    justify-content: center;
-    max-width: 900px;
-    margin: auto;
-  }
-  .card {
-    background: white;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.15);
-    border-radius: 8px;
-    padding: 20px 24px;
-    flex: 1 1 280px;
-    min-width: 280px;
-    transition: box-shadow 0.3s ease;
-  }
-  .card:hover {
-    box-shadow: 0 8px 20px rgba(0,0,0,0.2);
-  }
-  .card h2 {
-    font-weight: 700;
-    font-size: 1.25rem;
-    margin-bottom: 16px;
-    color: #6200ee; /* Material Purple 500 */
-    letter-spacing: 0.03em;
-  }
-  .badges {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 10px;
-  }
-  .badges img {
-    height: 32px;
-    border-radius: 4px;
-    filter: drop-shadow(0 1px 1px rgba(0,0,0,0.1));
-    transition: transform 0.2s ease;
-  }
-  .badges img:hover {
-    transform: scale(1.1);
-  }
-</style>
+## Tech Stack
 
-<div class="container">
+### Programming & Scripting
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=cpp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=yellow)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-white?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-FFFFFF.svg?style=flat&logo=express&logoColor=black)
 
-  <section class="card">
-    <h2>🖥 Programming & Scripting</h2>
-    <div class="badges">
-      <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="C" />
-      <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=cpp&logoColor=white" alt="C++" />
-      <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=yellow" alt="Python" />
-      <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java" />
-      <img src="https://img.shields.io/badge/JavaScript-white?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/Node.js-339933.svg?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
-      <img src="https://img.shields.io/badge/Express.js-FFFFFF.svg?style=flat&logo=express&logoColor=black" alt="Express.js" />
-    </div>
-  </section>
+### Frontend
+![React](https://img.shields.io/badge/React-20232A.svg?style=flat&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 
-  <section class="card">
-    <h2>🌐 Frontend</h2>
-    <div class="badges">
-      <img src="https://img.shields.io/badge/React-20232A.svg?style=flat&logo=react&logoColor=61DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3" />
-    </div>
-  </section>
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=flat&logo=mongodb&logoColor=white)
 
-  <section class="card">
-    <h2>🗄 Databases</h2>
-    <div class="badges">
-      <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
-    </div>
-  </section>
+### Data & ML
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=flat&logo=numpy&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20.svg?style=flat&logo=django&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white)
 
-  <section class="card">
-    <h2>🤖 Data & ML</h2>
-    <div class="badges">
-      <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas" alt="Pandas" />
-      <img src="https://img.shields.io/badge/NumPy-013243.svg?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
-      <img src="https://img.shields.io/badge/Django-092E20.svg?style=flat&logo=django&logoColor=white" alt="Django" />
-      <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-      <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-    </div>
-  </section>
-
-  <section class="card">
-    <h2>🛠 Tools</h2>
-    <div class="badges">
-      <img src="https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=docker&logoColor=white" alt="Docker" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=postman&logoColor=white" alt="Postman" />
-      <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE.svg?style=flat&logo=apache-airflow&logoColor=white" alt="Apache Airflow" />
-      <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=flat&logo=jupyter&logoColor=white" alt="Jupyter" />
-    </div>
-  </section>
-
-</div>
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=postman&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE.svg?style=flat&logo=apache-airflow&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=flat&logo=jupyter&logoColor=white)
 
 
 ---
