@@ -10,12 +10,12 @@ I'm a Data Engineer, Researcher, and ML Enthusiast passionate about building int
 </p>
 
 <p align="left">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-MahmudulMashrafe-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmudulmashrafe/)
-[![GitHub](https://img.shields.io/badge/GitHub-mahmudulmashrafe-181717?style=flat&logo=github&logoColor=white)](https://github.com/mahmudulmashrafe)
-[![Facebook](https://img.shields.io/badge/Facebook-MahmudulMashrafe-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/mahmudulmashrafe)
-[![Instagram](https://img.shields.io/badge/Instagram-mahmudulmashrafe-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mahmudulmashrafe/)
-[![Twitter](https://img.shields.io/badge/Twitter-iammashrafe-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/iammashrafe)
-[![Reddit](https://img.shields.io/badge/Reddit-MahmudulMashrafe-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/MahmudulMashrafe)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-MahmudulMashrafe-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmudulmashrafe/)
+![GitHub](https://img.shields.io/badge/GitHub-mahmudulmashrafe-181717?style=flat&logo=github&logoColor=white)](https://github.com/mahmudulmashrafe)
+![Facebook](https://img.shields.io/badge/Facebook-MahmudulMashrafe-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/mahmudulmashrafe)
+![Instagram](https://img.shields.io/badge/Instagram-mahmudulmashrafe-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mahmudulmashrafe/)
+![Twitter](https://img.shields.io/badge/Twitter-iammashrafe-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/iammashrafe)
+![Reddit](https://img.shields.io/badge/Reddit-MahmudulMashrafe-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/MahmudulMashrafe)
 
 </p>
 
