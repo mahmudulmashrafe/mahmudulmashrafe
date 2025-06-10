@@ -10,7 +10,7 @@ I'm a Data Engineer, Researcher, and ML Enthusiast passionate about building int
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-MahmudulMashrafe-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmudulmashrafe/)
-[![GitHub](https://img.shields.io/badge/GitHub-mahmudulmashrafe-black?style=flat&logo=github&logoColor=white)](https://github.com/mahmudulmashrafe)
+[![GitHub](https://img.shields.io/badge/GitHub-mahmudulmashrafe-white?style=flat&logo=github&logoColor=white)](https://github.com/mahmudulmashrafe)
 [![Reddit](https://img.shields.io/badge/Reddit-MahmudulMashrafe-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/MahmudulMashrafe)
 
 [![X](https://img.shields.io/badge/Twitter-iammashrafe-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/iammashrafe)
