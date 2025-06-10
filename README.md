@@ -99,29 +99,3 @@ I'm a Data Engineer, Researcher, and ML Enthusiast passionate about building int
 ## Contribution Graph
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahmudulmashrafe&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<p> 
-</br>
-</p>
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/mahmudulmashrafe/mahmudulmashrafe/blob/output/github-contribution-grid-snake.svg)
-
-<p> 
-</br>
-</p>
-
-## Visitor Count
-
-![Visitor Count](https://komarev.com/ghpvc/?username=mahmudulmashrafe&label=Profile%20views&color=0e75b6&style=flat)
-
-<p> 
-</br>
-</p>
-
-## Quote of the Day
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
-</p>
