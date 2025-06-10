@@ -19,8 +19,15 @@ I'm a Data Engineer, Researcher, and ML Enthusiast passionate about building int
 ![C](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=yellow)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black&fontColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-white?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-white?style=flat&logo=nodedotjs&logoColor=%23339933)
+![Express](https://img.shields.io/badge/Express.js-white?style=flat&logo=express&logoColor=black)
 
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-white?style=flat&logo=mysql&logoColor=%2300758F)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=flat&logo=postgresql&logoColor=%23336791)
+![MongoDB](https://img.shields.io/badge/MongoDB-white?style=flat&logo=mongodb&logoColor=%2347A248)
+![Git](https://img.shields.io/badge/Git-white?style=flat&logo=git&logoColor=%23F05032)
 
 ### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
@@ -29,8 +36,16 @@ I'm a Data Engineer, Researcher, and ML Enthusiast passionate about building int
 ### 📊 Data & ML
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas)
 ![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![Django](https://img.shields.io/badge/Django-white?style=flat&logo=django&logoColor=%23092E20)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-white?style=flat&logo=git&logoColor=%23F05032)
+![Docker](https://img.shields.io/badge/Docker-white?style=flat&logo=docker&logoColor=%230db7ed)
+![Postman](https://img.shields.io/badge/Postman-white?style=flat&logo=postman&logoColor=%23FF6C37)
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-white?style=flat&logo=apacheairflow&logoColor=%23017CEE)
+![Jupyter](https://img.shields.io/badge/Jupyter-white?style=flat&logo=jupyter&logoColor=%23F37626)
 
 ---
 
