@@ -62,9 +62,9 @@ I'm a Data Engineer, Researcher, and ML Enthusiast passionate about building int
 
 ## Currently Learning
 
-🧠 **Deep Learning & LSTM Models**  
-⚙️ **Advanced Java & Spring Boot**  
-📈 **AI-powered Analytics & Prediction Models**
+**Deep Learning & LSTM Models**  
+**Advanced Java & Spring Boot**  
+**AI-powered Analytics & Prediction Models**
 
 ---
 
