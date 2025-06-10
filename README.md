@@ -7,10 +7,7 @@
 </h1 >
 
 <p align="left">
-I'm a **Data Scientist** who loves to decode patterns, predict outcomes, and craft impactful insights from raw data.<br/>
-With hands-on experience in **machine learning, Python, Java**, and more, I thrive in building data-powered solutions.<br/>
-Currently diving deeper into **Deep Learning, Java**, and **AI systems**.<br/>  
-I'm passionate about **open-source**, **learning new tech**, and **solving real-world problems**.
+I'm a Data Engineer, Researcher, and ML Enthusiast passionate about building intelligent systems that turn raw data into meaningful impact. With a strong foundation in Python, Big Data, and Machine Learning, I design scalable pipelines and explore cutting-edge research. Always curious, I thrive on solving real-world problems, embracing open-source, and pushing the boundaries of what's possible with data.
 </p>
 
 
