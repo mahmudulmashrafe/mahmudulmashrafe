@@ -56,10 +56,11 @@ I'm a Data Engineer, Researcher, and ML Enthusiast passionate about building int
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE.svg?style=flat&logo=apache-airflow&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=flat&logo=jupyter&logoColor=white)
 
+<p> 
+</br>
+</p>
 
----
-
-## 🚧 Currently Learning
+## Currently Learning
 
 🧠 **Deep Learning & LSTM Models**  
 ⚙️ **Advanced Java & Spring Boot**  
