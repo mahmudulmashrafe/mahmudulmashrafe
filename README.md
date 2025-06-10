@@ -69,16 +69,32 @@ I'm a Data Engineer, Researcher, and ML Enthusiast passionate about building int
 </br>
 </p>
 
-## 📊 GitHub Analytics
+## GitHub Analytics
+
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmudulmashrafe&show_icons=true&theme=tokyonight&hide_border=true" width="48%" height="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudulmashrafe&layout=compact&theme=tokyonight&hide_border=true" width="48%" height="400" />
+  <a href="https://github.com/mahmudulmashrafe">
+    <img src="https://github-readme-stats.vercel.app/api?username=mahmudulmashrafe&show_icons=true&theme=radical&border_radius=20&rank_icon=github&hide_border=true" width="47%"/>
+  </a>
+  <a href="https://github.com/mahmudulmashrafe">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudulmashrafe&layout=compact&theme=radical&border_radius=20&hide_border=true" width="47%"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudulmashrafe&theme=tokyonight&hide_border=true" width="98%" />
+  <a href="https://github.com/mahmudulmashrafe">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=mahmudulmashrafe&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&hide_border=true&border_radius=20" width="96%"/>
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mahmudulmashrafe&theme=darkhub&no-frame=true&row=1&column=6" width="96%" />
+  </a>
+</p>
+
+
 
 ---
 
