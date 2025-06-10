@@ -9,17 +9,13 @@
 I'm a Data Engineer, Researcher, and ML Enthusiast passionate about building intelligent systems that turn raw data into meaningful impact. With a strong foundation in Python, Big Data, and Machine Learning, I design scalable pipelines and explore cutting-edge research. Always curious, I thrive on solving real-world problems, embracing open-source, and pushing the boundaries of what's possible with data.
 </p>
 
-<p align="left">
-![LinkedIn](https://img.shields.io/badge/LinkedIn-MahmudulMashrafe-blue?style=flat&logo=linkedin&logoColor=white)
-[![GitHub](https://img.shields.io/badge/GitHub-mahmudulmashrafe-black?style=flat&logo=github&logoColor=white)](https://github.com/mahmudulmashrafe) &nbsp;
-[![Facebook](https://img.shields.io/badge/Facebook-MahmudulMashrafe-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/mahmudulmashrafe) &nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-mahmudulmashrafe-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mahmudulmashrafe/) &nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter-iammashrafe-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/iammashrafe) &nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MahmudulMashrafe-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmudulmashrafe/)
+[![GitHub](https://img.shields.io/badge/GitHub-mahmudulmashrafe-black?style=flat&logo=github&logoColor=white)](https://github.com/mahmudulmashrafe)
+[![Facebook](https://img.shields.io/badge/Facebook-MahmudulMashrafe-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/mahmudulmashrafe)
+[![Instagram](https://img.shields.io/badge/Instagram-mahmudulmashrafe-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mahmudulmashrafe/)
+[![Twitter](https://img.shields.io/badge/Twitter-iammashrafe-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/iammashrafe)
 [![Reddit](https://img.shields.io/badge/Reddit-MahmudulMashrafe-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/MahmudulMashrafe)
 
-
-
-</p>
 
 
 ---
