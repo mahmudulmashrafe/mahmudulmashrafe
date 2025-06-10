@@ -4,11 +4,14 @@
   I'm Mahmudul Mashrafe
   <br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FFD9&width=1000&lines=I'm+a+Data+Engineer;I'm+a+Machine+Learning+Enthusiast" alt="Typing animation" />
-</h1>
-✨ I'm a **Data Scientist** who loves to decode patterns, predict outcomes, and craft impactful insights from raw data.  
-🛠️ With hands-on experience in **machine learning, Python, Java**, and more, I thrive in building data-powered solutions.  
-🌱 Currently diving deeper into **Deep Learning, Java**, and **AI systems**.  
+</h1 >
+
+<h1 align="left">I'm a **Data Scientist** who loves to decode patterns, predict outcomes, and craft impactful insights from raw data.<br/>
+With hands-on experience in **machine learning, Python, Java**, and more, I thrive in building data-powered solutions.<br/>
+🌱 Currently diving deeper into **Deep Learning, Java**, and **AI systems**.<br/>  
 🌌 I'm passionate about **open-source**, **learning new tech**, and **solving real-world problems**.
+</h1>
+
 
 ---
 
