@@ -65,20 +65,9 @@ I'm a Data Engineer, Researcher, and ML Enthusiast passionate about building int
 **Deep Learning & LSTM Models**  
 **AI-powered Analytics & Prediction Models**
 
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mahmudulmashrafe/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://github.com/mahmudulmashrafe"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
-  <a href="https://www.facebook.com/mahmudulmashrafe"><img src="https://skillicons.dev/icons?i=facebook" height="40"/></a>
-  <a href="https://www.instagram.com/mahmudulmashrafe/"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
-  <a href="https://twitter.com/iammashrafe"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
-  <a href="https://www.reddit.com/user/MahmudulMashrafe"><img src="https://skillicons.dev/icons?i=reddit" height="40"/></a>
+<p> 
+</br>
 </p>
-
----
 
 ## 📊 GitHub Analytics
 
