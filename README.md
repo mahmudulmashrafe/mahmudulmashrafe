@@ -1,5 +1,5 @@
 
-<h3 align="center">⚡ Data Scientist | 💻 Programmer | 🌍 Tech Explorer <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" /></h3>
+<h3 align="left">⚡ Hi! there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" /></h3>
 
 <p align="center">
   <b style="font-size: 22px;">Hi! there,</b><br />
