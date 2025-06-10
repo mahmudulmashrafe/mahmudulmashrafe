@@ -38,7 +38,7 @@ I'm a Data Engineer, Researcher, and ML Enthusiast passionate about building int
 ![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-?style=flat&logo=django&logoColor=%23092E20)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=black)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-?style=flat&logo=git&logoColor=%23F05032)
