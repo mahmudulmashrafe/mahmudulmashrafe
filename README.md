@@ -5,7 +5,9 @@
   <br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FFD9&width=1000&lines=I'm+a+Data+Engineer;I'm+a+Machine+Learning+Enthusiast" alt="Typing animation" />
 </h1>
+
 ---
+
 ## 🧠 About Me
 
 ✨ I'm a **Data Scientist** who loves to decode patterns, predict outcomes, and craft impactful insights from raw data.  
