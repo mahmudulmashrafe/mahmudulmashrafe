@@ -8,6 +8,7 @@
 <p align="left">
 I'm a Data Engineer, Researcher, and ML Enthusiast passionate about building intelligent systems that turn raw data into meaningful impact. With a strong foundation in Python, Big Data, and Machine Learning, I design scalable pipelines and explore cutting-edge research. Always curious, I thrive on solving real-world problems, embracing open-source, and pushing the boundaries of what's possible with data.
 </p>
+![Visitor Count](https://komarev.com/ghpvc/?username=mahmudulmashrafe&label=Profile%20views&color=0e75b6&style=flat)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-MahmudulMashrafe-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmudulmashrafe/)
 [![GitHub](https://img.shields.io/badge/GitHub-mahmudulmashrafe-151b23?style=flat&logo=github&logoColor=white)](https://github.com/mahmudulmashrafe)
