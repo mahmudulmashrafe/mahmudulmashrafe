@@ -1,8 +1,9 @@
-
-<h1 align="left">Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/>  I am<br/>Mahmudul Mashrafe<br/>I am <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFD9&center=false&vCenter=false&width=800&lines=Data+Engineer;Machine+Learning+Enthusiast;Data+Engineer"
-    alt="Typing animation"
-  /></h1>
+<h1 align="left">
+  Hi, I'm Mahmudul Mashrafe! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/>
+  <br/>
+  <br/>
+  I am a <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFD9&width=435&lines=Data+Engineer;Machine+Learning+Enthusiast" alt="Typing animation" />
+</h1>
 
 
 ---
