@@ -19,7 +19,7 @@ I'm a Data Engineer, Researcher, and ML Enthusiast passionate about building int
 ![C](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=yellow)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![js](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
 
 
 ### 🌐 Frontend
