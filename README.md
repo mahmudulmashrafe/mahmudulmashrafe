@@ -1,8 +1,6 @@
 
 <h1 align="left">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/></h1>
-<p>I am Mahmudul Mashrafe</p>
-
-
+<p I am Mahmudul Mashrafe</p>
 <p align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFD9&center=true&vCenter=true&width=500&lines=I+am+Data+Engineer;I+am+Machine+Learning+Enthusiast;I+am+Data+Engineer"
