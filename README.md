@@ -14,7 +14,7 @@ I'm a Data Engineer, Researcher, and ML Enthusiast passionate about building int
 
 ## Tech Stack
 
-### Programming & Scripting                                                                              Frontend 
+### Programming & Scripting&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Frontend
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=cpp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=yellow)
