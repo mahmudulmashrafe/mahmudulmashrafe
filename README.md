@@ -24,10 +24,9 @@ I'm a Data Engineer, Researcher, and ML Enthusiast passionate about building int
 ![Express.js](https://img.shields.io/badge/Express.js-FFFFFF.svg?style=flat&logo=express&logoColor=black)
 
 ### Database
-![MySQL](https://img.shields.io/badge/MySQL-?style=flat&logo=mysql&logoColor=%2300758F)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-?style=flat&logo=postgresql&logoColor=%23336791)
-![MongoDB](https://img.shields.io/badge/MongoDB-?style=flat&logo=mongodb&logoColor=%2347A248)
-![Git](https://img.shields.io/badge/Git-?style=flat&logo=git&logoColor=%23F05032)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=flat&logo=mongodb&logoColor=white)
 
 ### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
@@ -35,17 +34,17 @@ I'm a Data Engineer, Researcher, and ML Enthusiast passionate about building int
 
 ### 📊 Data & ML
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas)
-![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![Django](https://img.shields.io/badge/Django-?style=flat&logo=django&logoColor=%23092E20)
+!![Django](https://img.shields.io/badge/Django-092E20.svg?style=flat&logo=django&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20.svg?style=flat&logo=django&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=black)
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-?style=flat&logo=git&logoColor=%23F05032)
-![Docker](https://img.shields.io/badge/Docker-?style=flat&logo=docker&logoColor=%230db7ed)
-![Postman](https://img.shields.io/badge/Postman-?style=flat&logo=postman&logoColor=%23FF6C37)
-![Airflow](https://img.shields.io/badge/Apache%20Airflow-?style=flat&logo=apacheairflow&logoColor=%23017CEE)
-![Jupyter](https://img.shields.io/badge/Jupyter-?style=flat&logo=jupyter&logoColor=%23F37626)
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=postman&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE.svg?style=flat&logo=apache-airflow&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=flat&logo=jupyter&logoColor=white)
 
 ---
 
