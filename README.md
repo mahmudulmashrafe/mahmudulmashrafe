@@ -1,4 +1,4 @@
-![Banner](https://pbs.twimg.com/profile_banners/1222442423089008640/1661974441/1080x360)
+/*![Banner](https://pbs.twimg.com/profile_banners/1222442423089008640/1661974441/1080x360)*/
 
 <h1 align="center">
   <a href="https://github.com/mahmudulmashrafe" target="_blank">
