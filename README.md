@@ -21,7 +21,7 @@ I'm a Data Engineer, Researcher, and ML Enthusiast passionate about building int
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-white?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-FFFFFF.svg?style=flat&logo=express&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-FFFFFF.svg?style=flat&logo=express&logoColor=black)
 
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-?style=flat&logo=mysql&logoColor=%2300758F)
