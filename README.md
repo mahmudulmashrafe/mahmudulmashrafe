@@ -15,7 +15,7 @@ I'm a Data Engineer, Researcher, and ML Enthusiast passionate about building int
 
 [![X](https://img.shields.io/badge/X.com-iammashrafe-1DA1F2?style=flat&logo=https://upload.wikimedia.org/wikipedia/commons/9/91/X_logo_2023.svg&logoColor=white)](https://twitter.com/iammashrafe)
 [![Instagram](https://img.shields.io/badge/Instagram-mahmudulmashrafe-e34b5a?style=flat&logo=instagram&logoColor=e34b5a)](https://www.instagram.com/mahmudulmashrafe/)
-[![Facebook](https://img.shields.io/badge/Facebook-MahmudulMashrafe-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/mahmudulmashrafe)
+[![Facebook](https://img.shields.io/badge/Facebook-MahmudulMashrafe-1877F2?style=flat&logo=facebook&logoColor=257ae9)](https://www.facebook.com/mahmudulmashrafe)
 
 
 
