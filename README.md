@@ -9,9 +9,9 @@
 I'm a Data Engineer, Researcher, and ML Enthusiast passionate about building intelligent systems that turn raw data into meaningful impact. With a strong foundation in Python, Big Data, and Machine Learning, I design scalable pipelines and explore cutting-edge research. Always curious, I thrive on solving real-world problems, embracing open-source, and pushing the boundaries of what's possible with data.
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-MahmudulMashrafe-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmudulmashrafe/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MahmudulMashrafe-white?style=flat&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/mahmudulmashrafe/)
 [![GitHub](https://img.shields.io/badge/GitHub-mahmudulmashrafe-white?style=flat&logo=github&logoColor=white)](https://github.com/mahmudulmashrafe)
-[![Reddit](https://img.shields.io/badge/Reddit-MahmudulMashrafe-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/MahmudulMashrafe)
+[![Reddit](https://img.shields.io/badge/Reddit-MahmudulMashrafe-white?style=flat&logo=reddit&logoColor=ff4b08)](https://www.reddit.com/user/MahmudulMashrafe)
 
 [![X](https://img.shields.io/badge/Twitter-iammashrafe-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/iammashrafe)
 [![Instagram](https://img.shields.io/badge/Instagram-mahmudulmashrafe-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mahmudulmashrafe/)
