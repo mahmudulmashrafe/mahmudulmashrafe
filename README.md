@@ -86,16 +86,6 @@ I'm a Data Engineer, Researcher, and ML Enthusiast passionate about building int
 </br>
 </p>
 
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahmudulmashrafe&theme=gruvbox&no-bg=true&no-frame=true&margin-w=15" />
-</p>
-
-<p> 
-</br>
-</p>
-
 ## Contribution Graph
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahmudulmashrafe&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
