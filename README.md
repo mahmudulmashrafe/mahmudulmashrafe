@@ -35,6 +35,7 @@ I'm a Data Engineer, Researcher, and ML Enthusiast passionate about building int
 
 
 <div align="center">
+
 ## Tech Stack
 
 ### 🔴 **Languages & Runtimes**
@@ -74,6 +75,8 @@ I'm a Data Engineer, Researcher, and ML Enthusiast passionate about building int
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=F37626)
 
 </div>
+
+
 
 ## Currently Learning
 
