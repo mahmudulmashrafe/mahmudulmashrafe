@@ -1,4 +1,3 @@
-![Visitor Count](https://komarev.com/ghpvc/?username=mahmudulmashrafe&label=Profile%20views&color=0e75b6&style=flat)
 <h1 align="left">
   Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />
   <br/>
