@@ -1,96 +1,26 @@
-![Visitor Count](https://komarev.com/ghpvc/?username=mahmudulmashrafe&label=Profile%20views&color=0e75b6&style=flat)
-<h1 align="left">
-  Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />
-  <br/>
-  I'm Mahmudul Mashrafe
-  <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00FFD9&width=1000&lines=I'm+a+Data+Engineer;I'm+a+Machine+Learning+Enthusiast" alt="Typing animation"/>
-</h1 >
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmudulmashrafe&label=Profile%20views&color=0e75b6&style=flat" alt="mahmudulmashrafe" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmudulmashrafe" alt="mahmudulmashrafe" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-I'm a Data Engineer, Researcher, and ML Enthusiast passionate about building intelligent systems that turn raw data into meaningful impact. With a strong foundation in Python, Big Data, and Machine Learning, I design scalable pipelines and explore cutting-edge research. Always curious, I thrive on solving real-world problems, embracing open-source, and pushing the boundaries of what's possible with data.
+<a href="https://twitter.com/iammashrafe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iammashrafe" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mahmudulmashrafe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmudulmashrafe" height="30" width="40" /></a>
+<a href="https://kaggle.com/mahmudulmashrafe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mahmudulmashrafe" height="30" width="40" /></a>
+<a href="https://fb.com/mahmudulmashrafe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmudulmashrafe" height="30" width="40" /></a>
+<a href="https://instagram.com/mahmudulmashrafe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahmudulmashrafe" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mahmudulmashrafe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mahmudulmashrafe" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/mahmudulmashrafe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mahmudulmashrafe" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mahmudulmashrafe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mahmudulmashrafe" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-MahmudulMashrafe-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmudulmashrafe/)
-[![GitHub](https://img.shields.io/badge/GitHub-mahmudulmashrafe-151b23?style=flat&logo=github&logoColor=white)](https://github.com/mahmudulmashrafe)
-[![Reddit](https://img.shields.io/badge/Reddit-MahmudulMashrafe-ff4b08?style=flat&logo=reddit&logoColor=ff4b08)](https://www.reddit.com/user/MahmudulMashrafe)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmudulmashrafe&show_icons=true&locale=en&layout=compact" alt="mahmudulmashrafe" /></p>
 
-[![X](https://img.shields.io/badge/X.com-iammashrafe-151b23?style=flat&logo=https://upload.wikimedia.org/wikipedia/commons/9/91/X_logo_2023.svg&logoColor=white)](https://twitter.com/iammashrafe)
-[![Instagram](https://img.shields.io/badge/Instagram-mahmudulmashrafe-e34b5a?style=flat&logo=instagram&logoColor=e34b5a)](https://www.instagram.com/mahmudulmashrafe/)
-[![Facebook](https://img.shields.io/badge/Facebook-MahmudulMashrafe-1877F2?style=flat&logo=facebook&logoColor=257ae9)](https://www.facebook.com/mahmudulmashrafe)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmudulmashrafe&show_icons=true&locale=en" alt="mahmudulmashrafe" /></p>
 
-<p> 
-</br>
-</p>
-
-## Tech Stack
-
-
-<div align="center">
-
-### 🔴 **Languages & Runtimes**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=ED8B00)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=00599C)
-
-### 🧠 **ML & Data Science**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=FF6F00)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=EE4C2C)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=F7931E)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=150458)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=013243)
-
-### 🗄️ **Databases & Storage**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=4169E1)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=DC382D)
-
-### 🏗️ **Big Data & Streaming**
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white&labelColor=E25A1C)
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white&labelColor=017CEE)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white&labelColor=231F20)
-
-### 🚀 **DevOps & Cloud**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=326CE5)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=FF9900)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032)
-
-### 🔧 **Frameworks & Tools**
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=092E20)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=009688)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=F37626)
-
-</div>
-
-## Currently Learning
-
-**Deep Learning & LSTM Models**  
-**AI-powered Analytics & Prediction Models**
-
-<p> 
-</br>
-</p>
-
-## GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/mahmudulmashrafe">
-    <img src="https://github-readme-stats.vercel.app/api?username=mahmudulmashrafe&show_icons=true&theme=radical&border_radius=20&rank_icon=github&hide_border=true" width="47%"/>
-  </a>
-  <a href="https://github.com/mahmudulmashrafe">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudulmashrafe&layout=compact&theme=radical&border_radius=20&hide_border=true" width="47%"/>
-  </a>
-
-</p>
-
-<p> 
-</br>
-</p>
-
-## Contribution Graph
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahmudulmashrafe&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudulmashrafe&" alt="mahmudulmashrafe" /></p>
