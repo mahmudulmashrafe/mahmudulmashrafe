@@ -17,9 +17,6 @@ I'm a Data Engineer, Researcher, and ML Enthusiast passionate about building int
 
 </div>
 
-<p> 
-</br>
-</p>
 
 <div align="center">
 
@@ -76,16 +73,25 @@ I'm a Data Engineer, Researcher, and ML Enthusiast passionate about building int
 
 </div>
 
+<p> 
+</br>
+</p>
 
+
+<div align="center">
 
 ## Currently Learning
 
 **Deep Learning & LSTM Models**  
 **AI-powered Analytics & Prediction Models**
 
+</div>
+
 <p> 
 </br>
 </p>
+
+<div align="center">
 
 ## 📊 GitHub Analytics
 
@@ -93,10 +99,15 @@ I'm a Data Engineer, Researcher, and ML Enthusiast passionate about building int
   <img src="https://streak-stats.demolab.com?user=mahmudulmashrafe&theme=radical&hide_border=true"/>
 </p>
 
+</div>
+
 <p> 
 </br>
 </p>
 
+<div align="center">
+
 ## Contribution Graph
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahmudulmashrafe&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
