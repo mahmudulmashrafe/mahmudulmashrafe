@@ -1,113 +1,30 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=mahmudulmashrafe&label=Profile%20views&color=0e75b6&style=flat)
+<h1 align="left">
+  Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />
+  <br/>
+  I'm Mahmudul Mashrafe
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00FFD9&width=1000&lines=I'm+a+Data+Engineer;I'm+a+Machine+Learning+Enthusiast" alt="Typing animation"/>
+</h1 >
+<p align="left">
+I'm a Data Engineer, Researcher, and ML Enthusiast passionate about building intelligent systems that turn raw data into meaningful impact. With a strong foundation in Python, Big Data, and Machine Learning, I design scalable pipelines and explore cutting-edge research. Always curious, I thrive on solving real-world problems, embracing open-source, and pushing the boundaries of what's possible with data.
+</p>
 
-<div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                   MAHMUDUL MASHRAFE                           ║
-║              Data Engineer • ML Specialist • Architect         ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MahmudulMashrafe-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmudulmashrafe/)
+[![GitHub](https://img.shields.io/badge/GitHub-mahmudulmashrafe-151b23?style=flat&logo=github&logoColor=white)](https://github.com/mahmudulmashrafe)
+[![Reddit](https://img.shields.io/badge/Reddit-MahmudulMashrafe-ff4b08?style=flat&logo=reddit&logoColor=ff4b08)](https://www.reddit.com/user/MahmudulMashrafe)
 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" alt="wave" />
+[![X](https://img.shields.io/badge/X.com-iammashrafe-151b23?style=flat&logo=https://upload.wikimedia.org/wikipedia/commons/9/91/X_logo_2023.svg&logoColor=white)](https://twitter.com/iammashrafe)
+[![Instagram](https://img.shields.io/badge/Instagram-mahmudulmashrafe-e34b5a?style=flat&logo=instagram&logoColor=e34b5a)](https://www.instagram.com/mahmudulmashrafe/)
+[![Facebook](https://img.shields.io/badge/Facebook-MahmudulMashrafe-1877F2?style=flat&logo=facebook&logoColor=257ae9)](https://www.facebook.com/mahmudulmashrafe)
 
-<h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Building+Intelligent+Data+Systems;Architecting+Scalable+Pipelines;Deploying+ML+Models+at+Scale;Exploring+Cutting-Edge+Technologies" alt="Typing SVG" />
-</h3>
+<p> 
+</br>
+</p>
 
-> 💡 **Problem Solver** • **Systems Designer** • **Data Scientist**  
-> Transforming complex datasets into actionable intelligence
+## Tech Stack
 
-</div>
-
-<div align="center">
-
-**🔗 CONNECT WITH ME**
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/mahmudulmashrafe/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/mahmudulmashrafe)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/iammashrafe)
-[![Reddit](https://img.shields.io/badge/-Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white&labelColor=FF4500)](https://www.reddit.com/user/MahmudulMashrafe)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:your.email@example.com)
-
-</div>
-
----
-
-## 🚀 CORE EXPERTISE
-
-<table align="center" width="100%">
-<tr>
-<td align="center" width="25%">
-
-**Data Pipeline Architecture**
-```
-┌─────────────────┐
-│  Raw Data       │
-├─────────────────┤
-│  ETL/Transform  │
-├─────────────────┤
-│  Storage Layer  │
-├─────────────────┤
-│  Analytics      │
-└─────────────────┘
-```
-
-</td>
-<td align="center" width="25%">
-
-**Machine Learning**
-```
-┌─────────────────┐
-│  Data Prep      │
-├─────────────────┤
-│  Feature Eng.   │
-├─────────────────┤
-│  Model Train    │
-├─────────────────┤
-│  Deploy & Scale │
-└─────────────────┘
-```
-
-</td>
-<td align="center" width="25%">
-
-**Cloud Architecture**
-```
-┌─────────────────┐
-│  Compute        │
-├─────────────────┤
-│  Storage        │
-├─────────────────┤
-│  Orchestration  │
-├─────────────────┤
-│  Monitoring     │
-└─────────────────┘
-```
-
-</td>
-<td align="center" width="25%">
-
-**DevOps & Tools**
-```
-┌─────────────────┐
-│  Containerize   │
-├─────────────────┤
-│  Version Ctrl   │
-├─────────────────┤
-│  CI/CD Pipeline │
-├─────────────────┤
-│  Infrastructure │
-└─────────────────┘
-```
-
-</td>
-</tr>
-</table>
-
----
-
-## 💻 TECH ARSENAL
 
 <div align="center">
 
@@ -149,192 +66,31 @@
 
 </div>
 
----
+## Currently Learning
 
-## 🧠 LEARNING & INNOVATION
+**Deep Learning & LSTM Models**  
+**AI-powered Analytics & Prediction Models**
 
-<div align="center">
+<p> 
+</br>
+</p>
 
-| **Advanced Topics** | **Focus Area** | **Status** |
-|:---:|:---:|:---:|
-| 🔬 Deep Learning & Transformers | LLMs, NLP, Vision | 🚀 In Progress |
-| ⚡ Distributed Computing | Apache Spark, Ray | 📈 Advanced |
-| 🤖 MLOps & AutoML | Model Deployment, Optimization | 🎯 Mastering |
-| 🌐 Microservices Architecture | Containerization, Service Mesh | 💪 Expert |
+## GitHub Analytics
 
-</div>
+<p align="center">
+  <a href="https://github.com/mahmudulmashrafe">
+    <img src="https://github-readme-stats.vercel.app/api?username=mahmudulmashrafe&show_icons=true&theme=radical&border_radius=20&rank_icon=github&hide_border=true" width="47%"/>
+  </a>
+  <a href="https://github.com/mahmudulmashrafe">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudulmashrafe&layout=compact&theme=radical&border_radius=20&hide_border=true" width="47%"/>
+  </a>
 
----
+</p>
 
-## 📈 PERFORMANCE METRICS
+<p> 
+</br>
+</p>
 
-<div align="center">
+## Contribution Graph
 
-<!-- Animated stats -->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahmudulmashrafe&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&card_width=500&bg_color=0d1117&text_color=e6edf3&title_color=00d4ff&icon_color=58a6ff)](https://github.com/mahmudulmashrafe)
-
-<br/>
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudulmashrafe&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0d1117&text_color=e6edf3&title_color=00d4ff)](https://github.com/mahmudulmashrafe)
-
-</div>
-
----
-
-## 🔥 CONTRIBUTION ANALYTICS
-
-<div align="center">
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahmudulmashrafe&theme=tokyo-night&radius=20&color=00d4ff&point=58a6ff&area=true&line=58a6ff)](https://github.com/mahmudulmashrafe)
-
-</div>
-
----
-
-## 🎯 TECHNICAL SPECIALIZATION
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│                                                               │
-│  DATA ENGINEERING PIPELINE                                   │
-│  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
-│                                                               │
-│  [Data Sources] → [Ingestion] → [Processing] → [Storage]   │
-│                 ↓         ↓         ↓         ↓              │
-│        (Kafka) (Airflow) (Spark)  (DW)      (Analytics)    │
-│                                                               │
-│  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
-│                                                               │
-│  MACHINE LEARNING PIPELINE                                   │
-│  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
-│                                                               │
-│  [Data] → [Features] → [Model] → [Evaluate] → [Deploy]    │
-│    ↓         ↓         ↓        ↓         ↓                  │
-│  (Prep)  (Eng)   (TensorFlow) (Metrics) (Production)       │
-│                                                               │
-└─────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-## 🎓 EXPERTISE MATRIX
-
-<table align="center" width="100%">
-<tr>
-<td align="center" width="20%">
-
-### Data Pipeline
-**★★★★★**
-- ETL/ELT Design
-- Stream Processing
-- Data Warehousing
-
-</td>
-<td align="center" width="20%">
-
-### Machine Learning
-**★★★★☆**
-- Supervised Learning
-- Deep Learning
-- NLP & Computer Vision
-
-</td>
-<td align="center" width="20%">
-
-### Cloud Architecture
-**★★★★☆**
-- AWS Services
-- Infrastructure as Code
-- Scalability Design
-
-</td>
-<td align="center" width="20%">
-
-### DevOps & Tools
-**★★★★☆**
-- Docker & Kubernetes
-- CI/CD Pipelines
-- Monitoring & Logging
-
-</td>
-<td align="center" width="20%">
-
-### Software Engineering
-**★★★☆☆**
-- Backend Systems
-- API Design
-- System Design
-
-</td>
-</tr>
-</table>
-
----
-
-## 🚀 READY FOR COLLABORATION
-
-<div align="center">
-
-### 🔗 LET'S BUILD SOMETHING AWESOME
-
-> **Looking for:**  
-> 💡 Challenging data engineering problems  
-> 🤖 ML research collaborations  
-> 🏗️ Scalable system architecture projects  
-> 📊 Analytics-driven insights  
-> 🌍 Open-source contributions
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/📧_LinkedIn_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmudulmashrafe/)
-[![Email_Me](https://img.shields.io/badge/✉️_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/🌐_My_Portfolio-00D4FF?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
-
-</div>
-
----
-
-## 📊 GITHUB ACHIEVEMENTS
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║  ✨ COMMITTED TO EXCELLENCE IN DATA & AI ✨                ║
-║                                                              ║
-║  Continuously Learning • Building Scalable Systems         ║
-║  Contributing to Open Source • Pushing Boundaries           ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-### 📌 QUICK STATS
-
-![Contributions](https://img.shields.io/badge/Contributions-Growing-00D4FF?style=flat-square&logo=github)
-![Repositories](https://img.shields.io/badge/Repositories-Active-58A6FF?style=flat-square&logo=github)
-![Experience](https://img.shields.io/badge/Experience-Multiple_Years-00D4FF?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Always_Learning-58A6FF?style=flat-square)
-
-<br/>
-
-**© 2026 Mahmudul Mashrafe** | *Data Engineer • ML Specialist • System Architect*
-
-<img src="https://img.shields.io/badge/Made%20With-Python%20%2B%20Coffee%20%2B%20Passion-FF6B6B?style=flat-square" alt="Made with Python and Coffee" />
-<img src="https://img.shields.io/badge/Follow%20For-Data%20%26%20ML%20Insights-00D4FF?style=flat-square" alt="Follow for Data & ML" />
-
-</div>
-
----
-
-<div align="center">
-
-<samp>
-Building the future, one data point at a time 🚀
-</samp>
-
-</div>
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahmudulmashrafe&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
