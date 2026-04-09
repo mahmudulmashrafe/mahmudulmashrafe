@@ -2,11 +2,11 @@
   Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />
   <br/>
   I'm Mahmudul Mashrafe
-  <br/>
-  <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00FFD9&width=1000&lines=I'm+a+Data+Engineer;I'm+a+Machine+Learning+Enthusiast" alt="Typing animation"/>
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFD9&center=true&vCenter=true&width=700&lines=I'm+a+Data+Engineer;I'm+a+Machine+Learning+Enthusiast" />
 </p>
-</h1 >
 <p align="center">
 I'm a Data Engineer, Researcher, and ML Enthusiast passionate about building intelligent systems that turn raw data into meaningful impact. With a strong foundation in Python, Big Data, and Machine Learning, I design scalable pipelines and explore cutting-edge research. Always curious, I thrive on solving real-world problems, embracing open-source, and pushing the boundaries of what's possible with data.
 </p>
